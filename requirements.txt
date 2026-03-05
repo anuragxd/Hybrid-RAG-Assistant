@@ -1,0 +1,11 @@
+groq
+tavily-python
+trafilatura
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+rank_bm25
+ragas
+python-dotenv
+pydantic
+pyyaml

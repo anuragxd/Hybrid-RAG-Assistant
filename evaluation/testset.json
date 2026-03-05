@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the reduction potential of metallic lithium, and how does it contribute to the overall energy density of lithium metal anodes?",
+        "ground_truth": "The reduction potential of metallic lithium is \u22123.05 V vs SHE, which directly contributes to high energy density.",
+        "reference_context": [
+            "Replacing graphite anodes with metallic lithium results in a dramatic increase in energy density (40-50%). Lithium metal anodes are able to store more energy per unit of volume or mass which is shown in properties such as high volumetric (2093 mAh cm\u22123) and gravimetric specific capacity (3862 mAh g\u22121). Metallic lithium has the lowest reduction potential (\u22123.05 V vs SHE.) which also directly contributes to high energy density"
+        ],
+        "source_url": "https://www.ossila.com/pages/solid-state-battery-vs-lithium-ion"
+    },
+    {
+        "question": "What is a potential benefit of using metal lithium directly as the anode in solid state batteries, in terms of the amount of anode material used?",
+        "ground_truth": "It can significantly reduce the amount of anode material used, resulting in a noticeable increase in the battery's energy density.",
+        "reference_context": [
+            "Advantages of solid state batteries\nHigh energy density\nAfter using a solid state electrolyte, the applicable material system for lithium-ion batteries will also change. A core point is that it is not necessary to use lithium-embedded graphite anodes; instead, metal lithium can be directly used as the anode, which can significantly reduce the amount of anode material used, resulting in a noticeable increase in the battery's energy density.\nSmaller battery volume"
+        ],
+        "source_url": "https://www.neware.net/news/solid-state-battery-and-their-pros-and-cons/230/38.html"
+    },
+    {
+        "question": "What is the primary difference in the state of the electrolyte between solid-state batteries and lithium-ion batteries?",
+        "ground_truth": "The primary difference is that solid-state batteries have a solid electrolyte, whereas the state of the electrolyte in lithium-ion batteries is not specified as solid.",
+        "reference_context": [
+            "Solid-state Battery vs Lithium-ion Battery Component Comparison\nSolid-state and lithium-ion batteries differ in several key components, particularly in the state of the electrolyte and the types of compatible electrodes. The comparison below highlights these key differences and the materials commonly used in each type of battery technology.\n| Component | Solid-State Battery | Lithium-ion Battery | ||\n|---|---|---|---|---|\n| Electrolyte |\nSolid Electrolyte\n|\n|"
+        ],
+        "source_url": "https://www.ossila.com/pages/solid-state-battery-vs-lithium-ion"
+    },
+    {
+        "question": "What is one of the most significant issues currently affecting the cycle life of solid-state batteries compared to lithium-ion batteries?",
+        "ground_truth": "The formation of cracks in the solid electrolyte during charging cycles, which can lead to increased internal resistance and reduced battery performance over time.",
+        "reference_context": [
+            "| Scale Up | Limited feasibility currently | Established |\nCycle Life\nCurrently solid-state batteries show lower cycler life than lithium-ion batteries due to a lack of development in optimizing device components. One of the most significant issues is the formation of cracks in the solid electrolyte during charging cycles. These cracks can lead to increased internal resistance and reduced battery performance over time.\nEnergy Density and Size"
+        ],
+        "source_url": "https://www.ossila.com/pages/solid-state-battery-vs-lithium-ion"
+    },
+    {
+        "question": "On which electrode in lithium-ion batteries does a solid electrolyte interphase form due to the decomposition of electrolyte?",
+        "ground_truth": "The negative electrode",
+        "reference_context": [
+            "Learn more...A solid electrolyte interphase (SEI) forms on the negative electrode in lithium-ion batteries (LIBs) due to the decomposition of electrolyte. The decomposition by-products build up on the surface of the anode and form an independent phase of material, different to the electrode and electrolyte.\nRead more...\nReferences\n- A Brief Review of Current Lithium Ion Battery..., Ulvestad, A. et al. (2018)"
+        ],
+        "source_url": "https://www.ossila.com/pages/solid-state-battery-vs-lithium-ion"
+    },
+    {
+        "question": "What materials are used to make the solid electrolyte in solid-state batteries, and how does the design of the separator differ from traditional lithium-ion models?",
+        "ground_truth": "The solid electrolyte in solid-state batteries is made of ceramics, polymers, or sulfides, and the separator is part of the solid medium and no longer needs to physically separate the anode and cathode in a liquid medium.",
+        "reference_context": [
+            "How Do Solid State Batteries Work?\nSolid-state batteries have an anode of lithium or lithium alloy and a cathode of metal oxides (nickel, manganese, cobalt), similar to traditional lithium-ion models. However, in this case, the electrolyte is solid and made of ceramics, polymers, or sulfides. The separator is part of the solid medium and no longer needs to physically separate the anode and cathode in a liquid medium. This saves significant weight and space compared to those made with liquids."
+        ],
+        "source_url": "https://www.ecoflow.com/us/blog/solid-state-battery-vs-lithium-ion"
+    },
+    {
+        "question": "How do solid state batteries achieve a larger current and increased capacity compared to traditional batteries?",
+        "ground_truth": "The density and structure of the solid electrolyte in solid state batteries allow more charged ions to gather at one end, conducting a larger current, thereby increasing the battery's capacity.",
+        "reference_context": [
+            "The principle of solid state batteries is the same, except that their electrolyte is solid. The density and structure of the solid electrolyte allow more charged ions to gather at one end, conducting a larger current, thereby increasing the battery's capacity. As a result, solid state batteries can be made smaller for the same amount of electricity"
+        ],
+        "source_url": "https://www.neware.net/news/solid-state-battery-and-their-pros-and-cons/230/38.html"
+    },
+    {
+        "question": "What are the main parameters on which solid state batteries are compared to lithium ion batteries in the given article?",
+        "ground_truth": "The main parameters on which solid state batteries are compared to lithium ion batteries in the given article are applications, safety, cost, performance, and other similar parameters.",
+        "reference_context": [
+            "This article compares solid state batteries vs lithium ion batteries, focusing on their applications, safety, cost, performance, and other similar parameters. This read also helps you choose the best battery from both options.\nWhat Are Solid-State Batteries and How Do They Work?"
+        ],
+        "source_url": "https://www.renogy.com/blogs/buyers-guide/solid-state-battery-vs-lithium-ion?srsltid=AfmBOoq0j1oCFeRGk5TcMaVRoZlHUokC9iaHSELzefuKuMP1A0zNkqkL"
+    },
+    {
+        "question": "What type of electrolyte do solid-state batteries have and how does it impact the risk of fire compared to Li-ion batteries with liquid electrolytes?",
+        "ground_truth": "Solid-state batteries have a non-flammable solid electrolyte, which significantly reduces the risk of fire compared to Li-ion batteries with liquid electrolytes.",
+        "reference_context": [
+            "Safety\nWhile the safety of Li-ion, especially LiFePO4, has dramatically improved over the years, there is still a small risk of the liquid electrolytes overheating and posing a fire risk.\nSolid-state batteries have a non-flammable solid electrolyte, significantly reducing the risk of fire and eliminating the rare risk of gas venting. They\u2019re also less susceptible to temperature extremes that make safety issues riskier with liquid electrolytes.\nCharging Speed"
+        ],
+        "source_url": "https://www.ecoflow.com/us/blog/solid-state-battery-vs-lithium-ion"
+    },
+    {
+        "question": "How does the interface between the electrolyte and electrode differ between solid phase electrolyte and liquid electrolyte in terms of electrode surface coverage?",
+        "ground_truth": "Liquids can easily wet the whole electrode surface, whereas the context does not specify the coverage for solid phase electrolyte, only implying a difference in the interface created.",
+        "reference_context": [
+            "Electrolyte-Electrode Interface\nA key way in which solid phase electrolyte differs from liquid electrolyte is the interface created between the electrolyte and electrode. Liquids can easily wet the whole electrode surface, ensuring good interactions between the electrolyte and electrode. This facilitates excellent ionic conductivity."
+        ],
+        "source_url": "https://www.ossila.com/pages/solid-state-battery-vs-lithium-ion"
+    }
+]
